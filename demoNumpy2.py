@@ -24,3 +24,5 @@ print(stu_arr["age"])
 print(stu_arr["score"])
 
 # 内存布局： order='C' (行优先，默认) 或'F'(列优先)，影响大规模计算的缓存命中率，可按需选择
+
+
